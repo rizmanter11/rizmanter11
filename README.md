@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @rizmanter11
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me coding
+Hi 👋 , I’m @rizmanter11
 
 <!---
 rizmanter11/rizmanter11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
